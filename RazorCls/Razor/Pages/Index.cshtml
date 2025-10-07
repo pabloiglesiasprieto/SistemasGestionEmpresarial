@@ -1,0 +1,21 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+<h2>@ViewData["Title"]</h2>
+
+<p>La fecha y hora actual es: @DateTime.Now</p>
+
+<form method="post">
+    <input asp-for="Nombre" placeholder="Escribe tu nombre" />
+    <button type="submit">Enviar</button>
+</form>
+
+@if (!string.IsNullOrEmpty(Model.Nombre))
+{
+    <p>Hola, @Model.Nombre!</p>
+}
+
