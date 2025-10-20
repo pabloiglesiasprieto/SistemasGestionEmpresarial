@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+</div>
+
+@{
+    var Hora = DateTime.Now;
+}
+
+<p>Hola peque, son las @Hora.ToString("hh:mm:ss")</p>
+
+<p>
+    @{
+        if (Hora.Hour < 12)
+        {
+            <text>Buenos días</text>
+        }
+        else if (Hora.Hour < 20)
+        {
+            <text>Buenas tardes</text>
+        }
+        else
+        {
+            <text>Buenas noches</text>
+        }
+       }
+</p>
