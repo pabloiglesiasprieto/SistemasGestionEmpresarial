@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FABF7AD-35BA-48FB-99D7-7BD0DAC66D74}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\igles\\documents\\github\\sistemasgestionempresarial\\unidad 7\\ejercicio1sol\\ejercicio1\\views\\home\\listadopersonas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6FABF7AD-35BA-48FB-99D7-7BD0DAC66D74}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\views\\home\\listadopersonas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6FABF7AD-35BA-48FB-99D7-7BD0DAC66D74}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\igles\\documents\\github\\sistemasgestionempresarial\\unidad 7\\ejercicio1sol\\ejercicio1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FABF7AD-35BA-48FB-99D7-7BD0DAC66D74}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FABF7AD-35BA-48FB-99D7-7BD0DAC66D74}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\igles\\documents\\github\\sistemasgestionempresarial\\unidad 7\\ejercicio1sol\\ejercicio1\\models\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FABF7AD-35BA-48FB-99D7-7BD0DAC66D74}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\models\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FABF7AD-35BA-48FB-99D7-7BD0DAC66D74}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\igles\\documents\\github\\sistemasgestionempresarial\\unidad 7\\ejercicio1sol\\ejercicio1\\models\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FABF7AD-35BA-48FB-99D7-7BD0DAC66D74}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\models\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FABF7AD-35BA-48FB-99D7-7BD0DAC66D74}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\igles\\documents\\github\\sistemasgestionempresarial\\unidad 7\\ejercicio1sol\\ejercicio1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FABF7AD-35BA-48FB-99D7-7BD0DAC66D74}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ListadoPersonas.cshtml",
-              "DocumentMoniker": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Views\\Home\\ListadoPersonas.cshtml",
-              "RelativeDocumentMoniker": "Ejercicio1\\Views\\Home\\ListadoPersonas.cshtml",
-              "ToolTip": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Views\\Home\\ListadoPersonas.cshtml",
-              "RelativeToolTip": "Ejercicio1\\Views\\Home\\ListadoPersonas.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-21T17:10:00.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Models\\Entities\\Persona.cs",
-              "RelativeDocumentMoniker": "Ejercicio1\\Models\\Entities\\Persona.cs",
-              "ToolTip": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Models\\Entities\\Persona.cs",
-              "RelativeToolTip": "Ejercicio1\\Models\\Entities\\Persona.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T17:07:55.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Departamento.cs",
-              "DocumentMoniker": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Models\\Entities\\Departamento.cs",
-              "RelativeDocumentMoniker": "Ejercicio1\\Models\\Entities\\Departamento.cs",
-              "ToolTip": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Models\\Entities\\Departamento.cs",
-              "RelativeToolTip": "Ejercicio1\\Models\\Entities\\Departamento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ejercicio1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T17:04:29.191Z",
+              "WhenOpened": "2025-10-21T17:15:35.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ejercicio1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-21T17:12:10.223Z",
               "EditorCaption": ""
             }
           ]

@@ -11,7 +11,7 @@ namespace Ejercicio1.Controllers
     public class HomeController : Controller
     {
 
-        private string saludos;
+        private string saludos = "Prueba";
         private DateTime hora = DateTime.Now;
         Persona persona = new Persona("Juan", 30);
 
