@@ -4,6 +4,7 @@
     {
         private string nombre;
         private int edad;
+        private Departamento departamento;
 
         public Persona(string nombre, int edad)
         {
@@ -22,6 +23,12 @@
         {
             get { return this.edad; }
             set { this.edad = value; }
+        }
+
+        public Departamento Departamento
+        {
+            get { return this.departamento; }
+            set { this.departamento = value; }
         }
     }
 }

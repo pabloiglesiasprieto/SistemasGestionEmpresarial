@@ -2,6 +2,9 @@ using System.Diagnostics;
 using Ejercicio1.Models;
 using Microsoft.AspNetCore.Mvc;
 using Ejercicio1.Models.Entities;
+using System.Collections.Generic;
+using System.Collections;
+
 
 namespace Ejercicio1.Controllers
 {
@@ -37,6 +40,20 @@ namespace Ejercicio1.Controllers
             ViewData["Saludos"] = saludos;
             ViewBag.Hora = hora;
             return View(persona);
+        }
+        public IActionResult listadoPersonas()
+        { 
+            return View(DAL.getPersonas());
+        }
+
+        public IActionResult listadoPersonasPosicion3()
+        {
+            return View(DAL.getPersonas());
+        }
+
+        public IActionResult EditarPersona()
+        {
+             return View();
         }
 
         public IActionResult Privacy()
