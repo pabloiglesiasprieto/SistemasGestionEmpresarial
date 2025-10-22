@@ -2,8 +2,6 @@ using System.Diagnostics;
 using Ejercicio1.Models;
 using Microsoft.AspNetCore.Mvc;
 using Ejercicio1.Models.Entities;
-using System.Collections.Generic;
-using System.Collections;
 
 
 namespace Ejercicio1.Controllers
@@ -62,6 +60,7 @@ namespace Ejercicio1.Controllers
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
