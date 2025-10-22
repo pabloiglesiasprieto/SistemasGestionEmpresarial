@@ -15,7 +15,7 @@ namespace Ejercicio1.Controllers
 
         private string saludos = "Prueba";
         private DateTime hora = DateTime.Now;
-        Persona persona = new Persona("Juan", 30);
+        Persona persona = DAL.getPersonas()[DAL.getPersonas().Count - 1];
 
 
         private readonly ILogger<HomeController> _logger;

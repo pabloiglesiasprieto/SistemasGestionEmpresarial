@@ -10,9 +10,14 @@
     @Html.TextBoxFor(model => model.Persona.Edad)
     <select>
         @foreach (var departamento in @Model.Departamentos)
+        if (departamento.Id == Model.Persona.IdDepartamento){
+        {   
+            <option selected="selected" value="@departamento.Id">@departamento.Nombre</option>
+        }
+        }        else
         {
             <option value="@departamento.Id">@departamento.Nombre</option>
-        }
+            }
     </select>
     <input type="submit" value="Guardar Cambios" />
 </form>

@@ -13,7 +13,8 @@ namespace Ejercicio1.Models
                 new Persona("Carlos", 35,4),
                 new Persona("Sofía", 27,1),
                 new Persona("Javier", 30,2),
-                new Persona("Macarenut", 19,3)
+                new Persona("Macarenut", 19,3),
+                new Persona("Paula",17)
             };
 
         private static List<Departamento> departamentos = new List<Departamento>
