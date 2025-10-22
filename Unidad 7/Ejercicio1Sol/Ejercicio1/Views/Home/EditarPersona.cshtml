@@ -1,4 +1,4 @@
-﻿@model Ejercicio1.Models.Entities.Persona
+﻿@model Ejercicio1.Models.VIewModel.EditarPersonaViewModel
 @*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
@@ -6,14 +6,13 @@
 }
 <form>
     <h1>Formulario para editar una persona.</h1>
-    @Html.TextBoxFor(model => model.Nombre)
-    @Html.TextBoxFor(model => model.Edad)
+    @Html.TextBoxFor(model => model.Persona.Nombre)
+    @Html.TextBoxFor(model => model.Persona.Edad)
     <select>
-        <option value="3">Marketing</option>
-        <option value="1">RRHH</option>
-        <option value="2">Desarrollo</option>
-        <option value="4">Ventas</option>
-        <option value="5">Finanzas</option>
+        @foreach (var departamento in @Model.Departamentos)
+        {
+            <option value="@departamento.Id">@departamento.Nombre</option>
+        }
     </select>
     <input type="submit" value="Guardar Cambios" />
 </form>

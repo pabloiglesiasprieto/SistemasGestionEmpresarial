@@ -2,6 +2,7 @@ using System.Diagnostics;
 using Ejercicio1.Models;
 using Microsoft.AspNetCore.Mvc;
 using Ejercicio1.Models.Entities;
+using Ejercicio1.Models.VIewModel;
 
 
 namespace Ejercicio1.Controllers
@@ -74,7 +75,7 @@ namespace Ejercicio1.Controllers
             List<Persona> pl = DAL.getPersonas();
             Persona p = pl[rnd.Next(0, pl.Count)];
 
-            return View(p);
+            return View(new EditarPersonaViewModel());
         }
 
         /// <summary>

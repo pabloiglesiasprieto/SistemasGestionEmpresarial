@@ -7,12 +7,13 @@ namespace Ejercicio1.Models
     {
         private static List<Persona> personas = new List<Persona>
             {
-                new Persona("Ana", 25),
-                new Persona("Luis", 28),
-                new Persona("Marta", 22),
-                new Persona("Carlos", 35),
-                new Persona("Sofía", 27),
-                new Persona("Javier", 30)
+                new Persona("Ana", 25,3),
+                new Persona("Luis", 28,1),
+                new Persona("Marta", 22,5),
+                new Persona("Carlos", 35,4),
+                new Persona("Sofía", 27,1),
+                new Persona("Javier", 30,2),
+                new Persona("Macarenut", 19,3)
             };
 
         private static List<Departamento> departamentos = new List<Departamento>

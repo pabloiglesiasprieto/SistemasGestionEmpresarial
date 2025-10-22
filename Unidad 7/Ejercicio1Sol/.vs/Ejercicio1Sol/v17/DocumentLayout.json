@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FABF7AD-35BA-48FB-99D7-7BD0DAC66D74}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 7\\ejercicio1sol\\ejercicio1\\models\\viewmodel\\editarpersonaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FABF7AD-35BA-48FB-99D7-7BD0DAC66D74}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\models\\viewmodel\\editarpersonaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FABF7AD-35BA-48FB-99D7-7BD0DAC66D74}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 7\\ejercicio1sol\\ejercicio1\\models\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FABF7AD-35BA-48FB-99D7-7BD0DAC66D74}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\models\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6FABF7AD-35BA-48FB-99D7-7BD0DAC66D74}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 7\\ejercicio1sol\\ejercicio1\\views\\home\\editarpersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6FABF7AD-35BA-48FB-99D7-7BD0DAC66D74}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\views\\home\\editarpersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FABF7AD-35BA-48FB-99D7-7BD0DAC66D74}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 7\\ejercicio1sol\\ejercicio1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FABF7AD-35BA-48FB-99D7-7BD0DAC66D74}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FABF7AD-35BA-48FB-99D7-7BD0DAC66D74}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 7\\ejercicio1sol\\ejercicio1\\models\\viewmodel\\editarpersonaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FABF7AD-35BA-48FB-99D7-7BD0DAC66D74}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\models\\viewmodel\\editarpersonaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FABF7AD-35BA-48FB-99D7-7BD0DAC66D74}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 7\\ejercicio1sol\\ejercicio1\\models\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FABF7AD-35BA-48FB-99D7-7BD0DAC66D74}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\models\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FABF7AD-35BA-48FB-99D7-7BD0DAC66D74}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 7\\ejercicio1sol\\ejercicio1\\models\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FABF7AD-35BA-48FB-99D7-7BD0DAC66D74}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\models\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FABF7AD-35BA-48FB-99D7-7BD0DAC66D74}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 7\\ejercicio1sol\\ejercicio1\\models\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FABF7AD-35BA-48FB-99D7-7BD0DAC66D74}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\models\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,60 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EditarPersonaViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Models\\VIewModel\\EditarPersonaViewModel.cs",
-              "RelativeDocumentMoniker": "Ejercicio1\\Models\\VIewModel\\EditarPersonaViewModel.cs",
-              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Models\\VIewModel\\EditarPersonaViewModel.cs",
-              "RelativeToolTip": "Ejercicio1\\Models\\VIewModel\\EditarPersonaViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T11:53:22.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Ejercicio1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Ejercicio1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAA5wCMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T11:29:17.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Models\\Entities\\Persona.cs",
               "RelativeDocumentMoniker": "Ejercicio1\\Models\\Entities\\Persona.cs",
               "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Models\\Entities\\Persona.cs",
               "RelativeToolTip": "Ejercicio1\\Models\\Entities\\Persona.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCsAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T11:29:15.538Z",
+              "WhenOpened": "2025-10-22T12:35:12.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Models\\DAL.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Models\\DAL.cs",
+              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Models\\DAL.cs",
+              "RelativeToolTip": "Ejercicio1\\Models\\DAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:32:30.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Models\\Entities\\Departamento.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Models\\Entities\\Departamento.cs",
+              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Models\\Entities\\Departamento.cs",
+              "RelativeToolTip": "Ejercicio1\\Models\\Entities\\Departamento.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:32:18.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditarPersonaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Models\\ViewModel\\EditarPersonaViewModel.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Models\\ViewModel\\EditarPersonaViewModel.cs",
+              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Models\\ViewModel\\EditarPersonaViewModel.cs",
+              "RelativeToolTip": "Ejercicio1\\Models\\ViewModel\\EditarPersonaViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:29:46.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "EditarPersona.cshtml",
               "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Views\\Home\\EditarPersona.cshtml",
               "RelativeDocumentMoniker": "Ejercicio1\\Views\\Home\\EditarPersona.cshtml",
               "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Views\\Home\\EditarPersona.cshtml",
               "RelativeToolTip": "Ejercicio1\\Views\\Home\\EditarPersona.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-22T11:29:09.356Z",
               "EditorCaption": ""

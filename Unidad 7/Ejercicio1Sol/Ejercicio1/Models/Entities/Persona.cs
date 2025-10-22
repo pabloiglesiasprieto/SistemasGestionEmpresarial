@@ -12,6 +12,23 @@
         /// <summary>
         /// Constructor de la clase Persona.
         /// </summary>
+        /// <param name="nombre"></param>
+        /// <param name="edad"></param>
+        /// <param name="idDepartamento"></param>
+        public Persona(string nombre, int edad, int idDepartamento)
+        {
+
+            this.nombre = nombre;
+            this.edad = edad;
+            this.idDepartamento = idDepartamento;
+        }
+
+
+
+
+        /// <summary>
+        /// Constructor de la clase Persona.
+        /// </summary>
         /// <param name="nombre">Nombre de la persona.</param>
         /// <param name="edad">Edad de la persona.</param>
         public Persona(string nombre, int edad)
