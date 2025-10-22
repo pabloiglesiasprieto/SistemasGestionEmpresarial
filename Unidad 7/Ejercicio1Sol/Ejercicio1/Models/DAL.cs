@@ -25,11 +25,18 @@ namespace Ejercicio1.Models
             };
 
 
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         public static List<Persona> getPersonas()
         {
             return DAL.personas;
         }
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         public static List<Departamento> getDepartamentos()
         {
             return DAL.departamentos;

@@ -6,6 +6,9 @@ using Ejercicio1.Models.Entities;
 
 namespace Ejercicio1.Controllers
 {
+    /// <summary>
+    /// Controlador principal del proyecto.
+    /// </summary>
     public class HomeController : Controller
     {
 
@@ -21,6 +24,10 @@ namespace Ejercicio1.Controllers
             _logger = logger;
         }
 
+        /// <summary>
+        /// Vista principal del proyecto.
+        /// </summary>
+        /// <returns>Vista principal del projecto</returns>
         public IActionResult Index()
         {
             if (DateTime.Now.Hour < 12)
@@ -39,21 +46,41 @@ namespace Ejercicio1.Controllers
             ViewBag.Hora = hora;
             return View(persona);
         }
+        /// <summary>
+        /// ActionResult para mostrar el listado de personas.
+        /// </summary>
+        /// <returns>Vista con el listado de personas completa.</returns>
         public IActionResult listadoPersonas()
         { 
             return View(DAL.getPersonas());
         }
 
+        /// <summary>
+        /// ActionResult para mostrar el listado de personas en posición 3.
+        /// </summary>
+        /// <returns>Listado de personas con posición 3</returns>
         public IActionResult listadoPersonasPosicion3()
         {
             return View(DAL.getPersonas());
         }
 
+        /// <summary>
+        /// ActionResult para editar una persona aleatoria
+        /// </summary>
+        /// <returns>Vista a mostrar al usuario.</returns>
         public IActionResult EditarPersona()
         {
-             return View();
+            Random rnd = new Random();
+            List<Persona> pl = DAL.getPersonas();
+            Persona p = pl[rnd.Next(0, pl.Count)];
+
+            return View(p);
         }
 
+        /// <summary>
+        /// No se que hace.
+        /// </summary>
+        /// <returns></returns>
         public IActionResult Privacy()
         {
             return View();

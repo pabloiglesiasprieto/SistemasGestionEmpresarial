@@ -245,23 +245,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\igles\\.nuget\\packages\\": {},
+    "C:\\Users\\pablo.iglesias\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Ejercicio1.csproj",
+      "projectUniqueName": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Ejercicio1.csproj",
       "projectName": "Ejercicio1",
-      "projectPath": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Ejercicio1.csproj",
-      "packagesPath": "C:\\Users\\igles\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\obj\\",
+      "projectPath": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\Ejercicio1.csproj",
+      "packagesPath": "C:\\Users\\pablo.iglesias\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 7\\Ejercicio1Sol\\Ejercicio1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\igles\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pablo.iglesias\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
