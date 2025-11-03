@@ -33,7 +33,11 @@ namespace Data.Repositories
         new Persona(18, "Gabriela", "Ortega"),
         new Persona(19, "Hector", "Jimenez"),
         new Persona(20, "Natalia", "Cruz")];
-    
+        
+        /// <summary>
+        /// Método que devuelve una lista de 20 personas.
+        /// </summary>
+        /// <returns>Lista de 20 personas.</returns>
       public List<Persona> GetAllPersonas()
         {
             return _personas;

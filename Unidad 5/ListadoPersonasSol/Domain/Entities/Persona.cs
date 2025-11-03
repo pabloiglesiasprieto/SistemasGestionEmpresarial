@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace Domain.Entities.Persona
 {
+    /// <summary>
+    /// Persona entity class.
+    /// </summary>
     public class Persona
     {
         private int _id;
@@ -15,6 +18,12 @@ namespace Domain.Entities.Persona
 
 
 
+        /// <summary>
+        /// Constructor de la clase Persona.
+        /// </summary>
+        /// <param name="id">Id de la persona.</param>
+        /// <param name="nombre">Nombre de la persona.</param>
+        /// <param name="apellido">Apellido de la persona.</param>
         public Persona(int id, String nombre, String apellido)
         {
             _id = id;
@@ -22,20 +31,31 @@ namespace Domain.Entities.Persona
             _apellido = apellido;
         }
 
+        /// <summary>
+        /// Constructor por defecto de la clase Persona.
+        /// </summary>
         public Persona() { }
 
-
+        /// <summary>
+        /// Getter del id.
+        /// </summary>
         public int Id
         {
             get { return _id; }
         }
 
+        /// <summary>
+        /// Getter y Setter del nombre.
+        /// </summary>
         public string Nombre
         {
             get { return _nombre; }
             set { _nombre = value; }
         }
 
+        /// <summary>
+        /// Getter y Setter del apellido.
+        /// </summary>
         public string Apellido
         {
             get { return _apellido; }

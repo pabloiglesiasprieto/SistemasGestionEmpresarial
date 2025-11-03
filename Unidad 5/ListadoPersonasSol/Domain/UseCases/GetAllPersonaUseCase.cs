@@ -9,16 +9,26 @@ using System.Threading.Tasks;
 
 namespace Domain.UseCases
 {
-        public class GetAllPersonaUseCase : IUseCases
+    /// <summary>
+    /// Caso de uso para obtener todas las personas.
+    /// </summary>
+    public class GetAllPersonaUseCase : IUseCases
     {
             private readonly IPersonaRepository _repository;
 
-           
-            public GetAllPersonaUseCase(IPersonaRepository repository)
+        /// <summary>
+        /// Método constructor del caso de uso.
+        /// </summary>
+        /// <param name="repository">Interfaz que implementará</param>
+        public GetAllPersonaUseCase(IPersonaRepository repository)
             {
                 _repository = repository;
             }
 
+        /// <summary>
+        /// Devuelve todas las personas.
+        /// </summary>
+        /// <returns>Lista de personas.</returns>
         public List<Persona> GetAllPersonas()
         {
             return _repository.GetAllPersonas();
