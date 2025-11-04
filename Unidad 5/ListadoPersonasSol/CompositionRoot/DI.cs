@@ -11,7 +11,7 @@ namespace CompositionRoot
     {
         public static IServiceCollection AddCompositionRoot(this IServiceCollection services, IConfiguration configuration)
         {
-            services.AddScoped<IPersonaRepository, PersonaRepository100>();
+            services.AddScoped<IPersonaRepository, PersonaRepository>();
             services.AddScoped<IUseCases, GetAllPersonaUseCase>();
 
             return services;

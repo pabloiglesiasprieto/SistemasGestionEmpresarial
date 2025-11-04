@@ -1,34 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\",
+  "WorkspaceRootPath": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7B9DD07-BD57-4183-8301-4902D2830DC4}|Domain\\Domain.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 5\\listadopersonassol\\domain\\usecases\\getallpersonausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7B9DD07-BD57-4183-8301-4902D2830DC4}|Domain\\Domain.csproj|solutionrelative:domain\\usecases\\getallpersonausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7B9DD07-BD57-4183-8301-4902D2830DC4}|Domain\\Domain.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 5\\listadopersonassol\\domain\\interfaces\\iusecases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7B9DD07-BD57-4183-8301-4902D2830DC4}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iusecases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F0450A0-D9CB-4590-BE81-AB200BB17A33}|UI\\UI.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 5\\listadopersonassol\\ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F0450A0-D9CB-4590-BE81-AB200BB17A33}|UI\\UI.csproj|solutionrelative:ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7B9DD07-BD57-4183-8301-4902D2830DC4}|Domain\\Domain.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 5\\listadopersonassol\\domain\\interfaces\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7B9DD07-BD57-4183-8301-4902D2830DC4}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F0450A0-D9CB-4590-BE81-AB200BB17A33}|UI\\UI.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 5\\listadopersonassol\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F0450A0-D9CB-4590-BE81-AB200BB17A33}|UI\\UI.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BBDD9EB-A6BA-4E2D-9029-1B7C62794C1C}|CompositionRoot\\CompositionRoot.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 5\\listadopersonassol\\compositionroot\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5BBDD9EB-A6BA-4E2D-9029-1B7C62794C1C}|CompositionRoot\\CompositionRoot.csproj|c:\\users\\igles\\documents\\github\\sistemasgestionempresarial\\unidad 5\\listadopersonassol\\compositionroot\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BBDD9EB-A6BA-4E2D-9029-1B7C62794C1C}|CompositionRoot\\CompositionRoot.csproj|solutionrelative:compositionroot\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18400E8B-D1DC-4FBB-AEB8-D96A206B2D54}|Data\\Data.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 5\\listadopersonassol\\data\\repositories\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F0450A0-D9CB-4590-BE81-AB200BB17A33}|UI\\UI.csproj|c:\\users\\igles\\documents\\github\\sistemasgestionempresarial\\unidad 5\\listadopersonassol\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0450A0-D9CB-4590-BE81-AB200BB17A33}|UI\\UI.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18400E8B-D1DC-4FBB-AEB8-D96A206B2D54}|Data\\Data.csproj|c:\\users\\igles\\documents\\github\\sistemasgestionempresarial\\unidad 5\\listadopersonassol\\data\\repositories\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18400E8B-D1DC-4FBB-AEB8-D96A206B2D54}|Data\\Data.csproj|solutionrelative:data\\repositories\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B9DD07-BD57-4183-8301-4902D2830DC4}|Domain\\Domain.csproj|c:\\users\\igles\\documents\\github\\sistemasgestionempresarial\\unidad 5\\listadopersonassol\\domain\\usecases\\getallpersonausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B9DD07-BD57-4183-8301-4902D2830DC4}|Domain\\Domain.csproj|solutionrelative:domain\\usecases\\getallpersonausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B9DD07-BD57-4183-8301-4902D2830DC4}|Domain\\Domain.csproj|c:\\users\\igles\\documents\\github\\sistemasgestionempresarial\\unidad 5\\listadopersonassol\\domain\\interfaces\\iusecases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B9DD07-BD57-4183-8301-4902D2830DC4}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iusecases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B9DD07-BD57-4183-8301-4902D2830DC4}|Domain\\Domain.csproj|c:\\users\\igles\\documents\\github\\sistemasgestionempresarial\\unidad 5\\listadopersonassol\\domain\\interfaces\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B9DD07-BD57-4183-8301-4902D2830DC4}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B9DD07-BD57-4183-8301-4902D2830DC4}|Domain\\Domain.csproj|c:\\users\\igles\\documents\\github\\sistemasgestionempresarial\\unidad 5\\listadopersonassol\\domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B9DD07-BD57-4183-8301-4902D2830DC4}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18400E8B-D1DC-4FBB-AEB8-D96A206B2D54}|Data\\Data.csproj|c:\\users\\igles\\documents\\github\\sistemasgestionempresarial\\unidad 5\\listadopersonassol\\data\\repositories\\personarepositoryempty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18400E8B-D1DC-4FBB-AEB8-D96A206B2D54}|Data\\Data.csproj|solutionrelative:data\\repositories\\personarepositoryempty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18400E8B-D1DC-4FBB-AEB8-D96A206B2D54}|Data\\Data.csproj|c:\\users\\igles\\documents\\github\\sistemasgestionempresarial\\unidad 5\\listadopersonassol\\data\\repositories\\personarepository100.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18400E8B-D1DC-4FBB-AEB8-D96A206B2D54}|Data\\Data.csproj|solutionrelative:data\\repositories\\personarepository100.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0450A0-D9CB-4590-BE81-AB200BB17A33}|UI\\UI.csproj|c:\\users\\igles\\documents\\github\\sistemasgestionempresarial\\unidad 5\\listadopersonassol\\ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0450A0-D9CB-4590-BE81-AB200BB17A33}|UI\\UI.csproj|solutionrelative:ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,41 +50,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IUseCases.cs",
-              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\Domain\\Interfaces\\IUseCases.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUseCases.cs",
-              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\Domain\\Interfaces\\IUseCases.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IUseCases.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\Domain\\Entities\\Persona.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Persona.cs",
+              "ToolTip": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\Domain\\Entities\\Persona.cs",
+              "RelativeToolTip": "Domain\\Entities\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T12:39:23.441Z",
+              "WhenOpened": "2025-11-03T16:23:05.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "PersonaRepositoryEmpty.cs",
+              "DocumentMoniker": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\Data\\Repositories\\PersonaRepositoryEmpty.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\PersonaRepositoryEmpty.cs",
+              "ToolTip": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\Data\\Repositories\\PersonaRepositoryEmpty.cs",
+              "RelativeToolTip": "Data\\Repositories\\PersonaRepositoryEmpty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T16:22:50.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "GetAllPersonaUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\Domain\\UseCases\\GetAllPersonaUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\Domain\\UseCases\\GetAllPersonaUseCase.cs",
               "RelativeDocumentMoniker": "Domain\\UseCases\\GetAllPersonaUseCase.cs",
-              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\Domain\\UseCases\\GetAllPersonaUseCase.cs",
+              "ToolTip": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\Domain\\UseCases\\GetAllPersonaUseCase.cs",
               "RelativeToolTip": "Domain\\UseCases\\GetAllPersonaUseCase.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T12:39:57.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IPersonaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\Domain\\Interfaces\\IPersonaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\Domain\\Interfaces\\IPersonaRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IPersonaRepository.cs",
-              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\Domain\\Interfaces\\IPersonaRepository.cs",
+              "ToolTip": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\Domain\\Interfaces\\IPersonaRepository.cs",
               "RelativeToolTip": "Domain\\Interfaces\\IPersonaRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -81,55 +106,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\UI\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "UI\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\UI\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "UI\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T12:38:47.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\UI\\Program.cs",
-              "RelativeDocumentMoniker": "UI\\Program.cs",
-              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\UI\\Program.cs",
-              "RelativeToolTip": "UI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "IUseCases.cs",
+              "DocumentMoniker": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\Domain\\Interfaces\\IUseCases.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUseCases.cs",
+              "ToolTip": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\Domain\\Interfaces\\IUseCases.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUseCases.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T12:25:12.429Z",
+              "WhenOpened": "2025-11-03T12:39:23.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "PersonaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\Data\\Repositories\\PersonaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\Data\\Repositories\\PersonaRepository.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\PersonaRepository.cs",
-              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\Data\\Repositories\\PersonaRepository.cs",
+              "ToolTip": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\Data\\Repositories\\PersonaRepository.cs",
               "RelativeToolTip": "Data\\Repositories\\PersonaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T12:23:01.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\UI\\Program.cs",
+              "RelativeDocumentMoniker": "UI\\Program.cs",
+              "ToolTip": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\UI\\Program.cs",
+              "RelativeToolTip": "UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T12:25:12.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "DI.cs",
-              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\CompositionRoot\\DI.cs",
+              "DocumentMoniker": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\CompositionRoot\\DI.cs",
               "RelativeDocumentMoniker": "CompositionRoot\\DI.cs",
-              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\CompositionRoot\\DI.cs",
+              "ToolTip": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\CompositionRoot\\DI.cs",
               "RelativeToolTip": "CompositionRoot\\DI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T12:14:44.256Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonaRepository100.cs",
+              "DocumentMoniker": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\Data\\Repositories\\PersonaRepository100.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\PersonaRepository100.cs",
+              "ToolTip": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\Data\\Repositories\\PersonaRepository100.cs",
+              "RelativeToolTip": "Data\\Repositories\\PersonaRepository100.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T16:22:48.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\igles\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 5\\ListadoPersonasSol\\UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T12:38:47.348Z"
             }
           ]
         }

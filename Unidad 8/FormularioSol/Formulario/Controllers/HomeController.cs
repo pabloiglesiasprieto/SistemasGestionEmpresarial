@@ -18,7 +18,7 @@ namespace Formulario.Controllers
         {
             return View();
         }
-       
+
         public IActionResult Ejercicio1(String nombre)
         {
             ViewBag.Nombre = nombre;
@@ -27,6 +27,13 @@ namespace Formulario.Controllers
 
         public IActionResult Ejercicio2()
         {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Ejercicio2(String nombre)
+        {
+            ViewBag.Nombre = nombre;
             return View();
         }
 
