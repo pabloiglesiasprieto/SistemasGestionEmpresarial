@@ -25,16 +25,11 @@ namespace Formulario.Controllers
             return View();
         }
 
-        public IActionResult Ejercicio2()
-        {
-            return View();
-        }
-
         [HttpPost]
-        public IActionResult Ejercicio2(String nombre)
+        public IActionResult Index(String nombre)
         {
             ViewBag.Nombre = nombre;
-            return View();
+            return View("Ejercicio2");
         }
 
         public IActionResult Privacy()
