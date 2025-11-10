@@ -1,0 +1,35 @@
+﻿@model Domain.DTOs.ListadoWithMisionSeleccionadaDto
+
+@{
+    ViewData["Title"] = "Listado de Misiones";
+}
+
+<h1>Listado de Misiones</h1>
+
+@if (Model.ListadoMisiones == null || !Model.ListadoMisiones.Any())
+{
+    <p>Ahora es hora de descansar 😴. Vuelve a intentarlo a partir de las 8:00 de la mañana.</p>
+}
+else
+{
+    <form asp-action="Index" method="post">
+        <label for="misionesSelect">Selecciona una misión:</label>
+        <select id="misionesSelect" name="id">
+            @foreach (var m in Model.ListadoMisiones)
+            {
+                var isSelected = Model.MisionSeleccionada != null && m.Id == Model.MisionSeleccionada.Id ? "selected" : "";
+                <option value="@m.Id">@m.Name</option>
+            }
+        </select>
+        <button type="submit">Ver detalles</button>
+    </form>
+
+    @if (Model.MisionSeleccionada != null)
+    {
+        <hr />
+        <h2>Detalles de la misión seleccionada</h2>
+        <p><strong>Título:</strong> @Model.MisionSeleccionada.Name</p>
+        <p><strong>Descripción:</strong> @Model.MisionSeleccionada.Descripcion</p>
+        <p><strong>Recompensa:</strong> @Model.MisionSeleccionada.Recompensa puntos</p>
+    }
+}

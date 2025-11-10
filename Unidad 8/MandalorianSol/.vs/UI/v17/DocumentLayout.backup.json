@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jmaya\\Documents\\GitHub\\SGE\\Tema8\\mandalorian\\UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B0788A-DFFA-416E-853B-60B61A931419}|Domain\\Domain.csproj|c:\\users\\jmaya\\documents\\github\\sge\\tema8\\mandalorian\\ui\\domain\\usecases\\medianocheusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B0788A-DFFA-416E-853B-60B61A931419}|Domain\\Domain.csproj|solutionrelative:domain\\usecases\\medianocheusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DEDA56-178B-45A0-8091-7C40699F606A}|UI\\UI.csproj|c:\\users\\jmaya\\documents\\github\\sge\\tema8\\mandalorian\\ui\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DEDA56-178B-45A0-8091-7C40699F606A}|UI\\UI.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BD08AA-8CC2-4488-BA70-F029A2ADD47B}|CompositionRoot\\CompositionRoot.csproj|c:\\users\\jmaya\\documents\\github\\sge\\tema8\\mandalorian\\ui\\compositionroot\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BD08AA-8CC2-4488-BA70-F029A2ADD47B}|CompositionRoot\\CompositionRoot.csproj|solutionrelative:compositionroot\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DEDA56-178B-45A0-8091-7C40699F606A}|UI\\UI.csproj|c:\\users\\jmaya\\documents\\github\\sge\\tema8\\mandalorian\\ui\\ui\\controllers\\misionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DEDA56-178B-45A0-8091-7C40699F606A}|UI\\UI.csproj|solutionrelative:ui\\controllers\\misionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DEDA56-178B-45A0-8091-7C40699F606A}|UI\\UI.csproj|c:\\users\\jmaya\\documents\\github\\sge\\tema8\\mandalorian\\ui\\ui\\views\\misiones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00DEDA56-178B-45A0-8091-7C40699F606A}|UI\\UI.csproj|solutionrelative:ui\\views\\misiones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB35F423-BA7A-4885-A7DB-A5552A5D4DCD}|Data\\Data.csproj|c:\\users\\jmaya\\documents\\github\\sge\\tema8\\mandalorian\\ui\\data\\repositories\\listadomisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB35F423-BA7A-4885-A7DB-A5552A5D4DCD}|Data\\Data.csproj|solutionrelative:data\\repositories\\listadomisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B0788A-DFFA-416E-853B-60B61A931419}|Domain\\Domain.csproj|c:\\users\\jmaya\\documents\\github\\sge\\tema8\\mandalorian\\ui\\domain\\dtos\\listadowithmisionseleccionadadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B0788A-DFFA-416E-853B-60B61A931419}|Domain\\Domain.csproj|solutionrelative:domain\\dtos\\listadowithmisionseleccionadadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BD08AA-8CC2-4488-BA70-F029A2ADD47B}|CompositionRoot\\CompositionRoot.csproj|c:\\users\\jmaya\\documents\\github\\sge\\tema8\\mandalorian\\ui\\compositionroot\\compositionroot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62BD08AA-8CC2-4488-BA70-F029A2ADD47B}|CompositionRoot\\CompositionRoot.csproj|solutionrelative:compositionroot\\compositionroot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BD08AA-8CC2-4488-BA70-F029A2ADD47B}|CompositionRoot\\CompositionRoot.csproj|c:\\users\\jmaya\\documents\\github\\sge\\tema8\\mandalorian\\ui\\compositionroot\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BD08AA-8CC2-4488-BA70-F029A2ADD47B}|CompositionRoot\\CompositionRoot.csproj|solutionrelative:compositionroot\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B0788A-DFFA-416E-853B-60B61A931419}|Domain\\Domain.csproj|c:\\users\\jmaya\\documents\\github\\sge\\tema8\\mandalorian\\ui\\domain\\interfaces\\imedianocheusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B0788A-DFFA-416E-853B-60B61A931419}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\imedianocheusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B0788A-DFFA-416E-853B-60B61A931419}|Domain\\Domain.csproj|c:\\users\\jmaya\\documents\\github\\sge\\tema8\\mandalorian\\ui\\domain\\entities\\mision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B0788A-DFFA-416E-853B-60B61A931419}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\mision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B0788A-DFFA-416E-853B-60B61A931419}|Domain\\Domain.csproj|c:\\users\\jmaya\\documents\\github\\sge\\tema8\\mandalorian\\ui\\domain\\repositories\\ilistadomisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B0788A-DFFA-416E-853B-60B61A931419}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\ilistadomisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\jmaya\\Documents\\GitHub\\SGE\\Tema8\\mandalorian\\UI\\CompositionRoot\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "CompositionRoot\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\jmaya\\Documents\\GitHub\\SGE\\Tema8\\mandalorian\\UI\\CompositionRoot\\DependencyInjection.cs",
+              "RelativeToolTip": "CompositionRoot\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T19:22:51.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\jmaya\\Documents\\GitHub\\SGE\\Tema8\\mandalorian\\UI\\CompositionRoot\\Class1.cs",
+              "RelativeDocumentMoniker": "CompositionRoot\\Class1.cs",
+              "ToolTip": "C:\\Users\\jmaya\\Documents\\GitHub\\SGE\\Tema8\\mandalorian\\UI\\CompositionRoot\\Class1.cs",
+              "RelativeToolTip": "CompositionRoot\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T19:21:34.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jmaya\\Documents\\GitHub\\SGE\\Tema8\\mandalorian\\UI\\UI\\Program.cs",
+              "RelativeDocumentMoniker": "UI\\Program.cs",
+              "ToolTip": "C:\\Users\\jmaya\\Documents\\GitHub\\SGE\\Tema8\\mandalorian\\UI\\UI\\Program.cs",
+              "RelativeToolTip": "UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T19:14:46.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jmaya\\Documents\\GitHub\\SGE\\Tema8\\mandalorian\\UI\\UI\\Views\\Misiones\\Index.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Misiones\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jmaya\\Documents\\GitHub\\SGE\\Tema8\\mandalorian\\UI\\UI\\Views\\Misiones\\Index.cshtml",
+              "RelativeToolTip": "UI\\Views\\Misiones\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T19:13:03.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MisionesController.cs",
+              "DocumentMoniker": "C:\\Users\\jmaya\\Documents\\GitHub\\SGE\\Tema8\\mandalorian\\UI\\UI\\Controllers\\MisionesController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\MisionesController.cs",
+              "ToolTip": "C:\\Users\\jmaya\\Documents\\GitHub\\SGE\\Tema8\\mandalorian\\UI\\UI\\Controllers\\MisionesController.cs",
+              "RelativeToolTip": "UI\\Controllers\\MisionesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T19:02:25.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListadoMisiones.cs",
+              "DocumentMoniker": "C:\\Users\\jmaya\\Documents\\GitHub\\SGE\\Tema8\\mandalorian\\UI\\Data\\Repositories\\ListadoMisiones.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\ListadoMisiones.cs",
+              "ToolTip": "C:\\Users\\jmaya\\Documents\\GitHub\\SGE\\Tema8\\mandalorian\\UI\\Data\\Repositories\\ListadoMisiones.cs",
+              "RelativeToolTip": "Data\\Repositories\\ListadoMisiones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T18:28:14.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MediaNocheUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\jmaya\\Documents\\GitHub\\SGE\\Tema8\\mandalorian\\UI\\Domain\\UseCases\\MediaNocheUseCase.cs",
+              "RelativeDocumentMoniker": "Domain\\UseCases\\MediaNocheUseCase.cs",
+              "ToolTip": "C:\\Users\\jmaya\\Documents\\GitHub\\SGE\\Tema8\\mandalorian\\UI\\Domain\\UseCases\\MediaNocheUseCase.cs",
+              "RelativeToolTip": "Domain\\UseCases\\MediaNocheUseCase.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T18:25:35.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IListadoMisiones.cs",
+              "DocumentMoniker": "C:\\Users\\jmaya\\Documents\\GitHub\\SGE\\Tema8\\mandalorian\\UI\\Domain\\Repositories\\IListadoMisiones.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IListadoMisiones.cs",
+              "ToolTip": "C:\\Users\\jmaya\\Documents\\GitHub\\SGE\\Tema8\\mandalorian\\UI\\Domain\\Repositories\\IListadoMisiones.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IListadoMisiones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T18:24:49.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListadoWithMisionSeleccionadaDto.cs",
+              "DocumentMoniker": "C:\\Users\\jmaya\\Documents\\GitHub\\SGE\\Tema8\\mandalorian\\UI\\Domain\\DTOs\\ListadoWithMisionSeleccionadaDto.cs",
+              "RelativeDocumentMoniker": "Domain\\DTOs\\ListadoWithMisionSeleccionadaDto.cs",
+              "ToolTip": "C:\\Users\\jmaya\\Documents\\GitHub\\SGE\\Tema8\\mandalorian\\UI\\Domain\\DTOs\\ListadoWithMisionSeleccionadaDto.cs",
+              "RelativeToolTip": "Domain\\DTOs\\ListadoWithMisionSeleccionadaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T18:24:13.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompositionRoot",
+              "DocumentMoniker": "C:\\Users\\jmaya\\Documents\\GitHub\\SGE\\Tema8\\mandalorian\\UI\\CompositionRoot\\CompositionRoot.csproj",
+              "RelativeDocumentMoniker": "CompositionRoot\\CompositionRoot.csproj",
+              "ToolTip": "C:\\Users\\jmaya\\Documents\\GitHub\\SGE\\Tema8\\mandalorian\\UI\\CompositionRoot\\CompositionRoot.csproj",
+              "RelativeToolTip": "CompositionRoot\\CompositionRoot.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-09T19:24:59.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMediaNocheUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\jmaya\\Documents\\GitHub\\SGE\\Tema8\\mandalorian\\UI\\Domain\\Interfaces\\IMediaNocheUseCase.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IMediaNocheUseCase.cs",
+              "ToolTip": "C:\\Users\\jmaya\\Documents\\GitHub\\SGE\\Tema8\\mandalorian\\UI\\Domain\\Interfaces\\IMediaNocheUseCase.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IMediaNocheUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T18:24:32.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mision.cs",
+              "DocumentMoniker": "C:\\Users\\jmaya\\Documents\\GitHub\\SGE\\Tema8\\mandalorian\\UI\\Domain\\Entities\\Mision.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Mision.cs",
+              "ToolTip": "C:\\Users\\jmaya\\Documents\\GitHub\\SGE\\Tema8\\mandalorian\\UI\\Domain\\Entities\\Mision.cs",
+              "RelativeToolTip": "Domain\\Entities\\Mision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T18:23:30.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

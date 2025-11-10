@@ -1,0 +1,36 @@
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\CompositionRoot\bin\Debug\net8.0\CompositionRoot.deps.json
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\CompositionRoot\bin\Debug\net8.0\CompositionRoot.dll
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\CompositionRoot\bin\Debug\net8.0\CompositionRoot.pdb
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\CompositionRoot\bin\Debug\net8.0\Data.dll
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\CompositionRoot\bin\Debug\net8.0\Domain.dll
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\CompositionRoot\bin\Debug\net8.0\Data.pdb
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\CompositionRoot\bin\Debug\net8.0\Domain.pdb
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\CompositionRoot\obj\Debug\net8.0\CompositionRoot.csproj.AssemblyReference.cache
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\CompositionRoot\obj\Debug\net8.0\CompositionRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\CompositionRoot\obj\Debug\net8.0\CompositionRoot.AssemblyInfoInputs.cache
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\CompositionRoot\obj\Debug\net8.0\CompositionRoot.AssemblyInfo.cs
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\CompositionRoot\obj\Debug\net8.0\CompositionRoot.csproj.CoreCompileInputs.cache
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\CompositionRoot\obj\Debug\net8.0\CompositionRoot.sourcelink.json
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\CompositionRoot\obj\Debug\net8.0\Composit.CFE0C182.Up2Date
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\CompositionRoot\obj\Debug\net8.0\CompositionRoot.dll
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\CompositionRoot\obj\Debug\net8.0\refint\CompositionRoot.dll
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\CompositionRoot\obj\Debug\net8.0\CompositionRoot.pdb
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\CompositionRoot\obj\Debug\net8.0\ref\CompositionRoot.dll
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\CompositionRoot\bin\Debug\net8.0\CompositionRoot.deps.json
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\CompositionRoot\bin\Debug\net8.0\CompositionRoot.dll
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\CompositionRoot\bin\Debug\net8.0\CompositionRoot.pdb
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\CompositionRoot\bin\Debug\net8.0\Data.dll
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\CompositionRoot\bin\Debug\net8.0\Domain.dll
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\CompositionRoot\bin\Debug\net8.0\Data.pdb
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\CompositionRoot\bin\Debug\net8.0\Domain.pdb
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\CompositionRoot\obj\Debug\net8.0\CompositionRoot.csproj.AssemblyReference.cache
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\CompositionRoot\obj\Debug\net8.0\CompositionRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\CompositionRoot\obj\Debug\net8.0\CompositionRoot.AssemblyInfoInputs.cache
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\CompositionRoot\obj\Debug\net8.0\CompositionRoot.AssemblyInfo.cs
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\CompositionRoot\obj\Debug\net8.0\CompositionRoot.csproj.CoreCompileInputs.cache
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\CompositionRoot\obj\Debug\net8.0\CompositionRoot.sourcelink.json
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\CompositionRoot\obj\Debug\net8.0\Composit.CFE0C182.Up2Date
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\CompositionRoot\obj\Debug\net8.0\CompositionRoot.dll
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\CompositionRoot\obj\Debug\net8.0\refint\CompositionRoot.dll
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\CompositionRoot\obj\Debug\net8.0\CompositionRoot.pdb
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\CompositionRoot\obj\Debug\net8.0\ref\CompositionRoot.dll

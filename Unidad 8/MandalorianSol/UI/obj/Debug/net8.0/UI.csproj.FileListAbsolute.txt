@@ -1,0 +1,88 @@
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\bin\Debug\net8.0\appsettings.json
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\bin\Debug\net8.0\UI.staticwebassets.runtime.json
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\bin\Debug\net8.0\UI.staticwebassets.endpoints.json
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\bin\Debug\net8.0\UI.exe
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\bin\Debug\net8.0\UI.deps.json
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\bin\Debug\net8.0\UI.runtimeconfig.json
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\bin\Debug\net8.0\UI.dll
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\bin\Debug\net8.0\UI.pdb
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\bin\Debug\net8.0\Domain.dll
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\bin\Debug\net8.0\Domain.pdb
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\UI.csproj.AssemblyReference.cache
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\UI.AssemblyInfoInputs.cache
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\UI.AssemblyInfo.cs
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\UI.csproj.CoreCompileInputs.cache
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\UI.RazorAssemblyInfo.cache
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\UI.RazorAssemblyInfo.cs
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\UI.sourcelink.json
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\scopedcss\bundle\UI.styles.css
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\scopedcss\projectbundle\UI.bundle.scp.css
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\UI.csproj.Up2Date
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\UI.dll
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\refint\UI.dll
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\UI.pdb
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\UI.genruntimeconfig.cache
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\obj\Debug\net8.0\ref\UI.dll
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\bin\Debug\net8.0\CompositionRoot.dll
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\bin\Debug\net8.0\Data.dll
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\bin\Debug\net8.0\CompositionRoot.pdb
+C:\Users\jmaya\Documents\GitHub\SGE\Tema8\mandalorian\UI\UI\bin\Debug\net8.0\Data.pdb
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\bin\Debug\net8.0\appsettings.json
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\bin\Debug\net8.0\UI.staticwebassets.runtime.json
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\bin\Debug\net8.0\UI.staticwebassets.endpoints.json
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\bin\Debug\net8.0\UI.exe
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\bin\Debug\net8.0\UI.deps.json
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\bin\Debug\net8.0\UI.runtimeconfig.json
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\bin\Debug\net8.0\UI.dll
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\bin\Debug\net8.0\UI.pdb
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\bin\Debug\net8.0\CompositionRoot.dll
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\bin\Debug\net8.0\Data.dll
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\bin\Debug\net8.0\Domain.dll
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\bin\Debug\net8.0\CompositionRoot.pdb
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\bin\Debug\net8.0\Data.pdb
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\bin\Debug\net8.0\Domain.pdb
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\UI.csproj.AssemblyReference.cache
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\UI.AssemblyInfoInputs.cache
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\UI.AssemblyInfo.cs
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\UI.csproj.CoreCompileInputs.cache
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\UI.RazorAssemblyInfo.cache
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\UI.RazorAssemblyInfo.cs
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\UI.sourcelink.json
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\scopedcss\bundle\UI.styles.css
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\scopedcss\projectbundle\UI.bundle.scp.css
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\UI.csproj.Up2Date
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\UI.dll
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\refint\UI.dll
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\UI.pdb
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\UI.genruntimeconfig.cache
+C:\Users\pablo.iglesias\Documents\GitHub\SistemasGestionEmpresarial\Unidad 8\MandalorianSol\UI\obj\Debug\net8.0\ref\UI.dll

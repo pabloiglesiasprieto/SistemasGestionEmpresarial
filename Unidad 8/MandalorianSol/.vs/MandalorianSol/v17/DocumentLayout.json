@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 8\\MandalorianSol\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{637613C6-14D9-4E09-90A9-065277D03DF4}|Domain\\Domain.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 8\\mandaloriansol\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{637613C6-14D9-4E09-90A9-065277D03DF4}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 8\\mandaloriansol\\domain\\usecases\\medianocheusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\usecases\\medianocheusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9185299B-CE49-422E-AB30-9887958BC197}|Data\\Data.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 8\\mandaloriansol\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9185299B-CE49-422E-AB30-9887958BC197}|Data\\Data.csproj|solutionrelative:data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{367BA225-35E1-4E6B-BC10-6BCAB984577C}|UI\\UI.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 8\\mandaloriansol\\ui\\controllers\\misionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367BA225-35E1-4E6B-BC10-6BCAB984577C}|UI\\UI.csproj|solutionrelative:ui\\controllers\\misionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 8\\mandaloriansol\\domain\\entities\\mision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\mision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367BA225-35E1-4E6B-BC10-6BCAB984577C}|UI\\UI.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 8\\mandaloriansol\\ui\\views\\misiones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{367BA225-35E1-4E6B-BC10-6BCAB984577C}|UI\\UI.csproj|solutionrelative:ui\\views\\misiones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 8\\MandalorianSol\\Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 8\\MandalorianSol\\Domain\\Class1.cs",
-              "RelativeToolTip": "Domain\\Class1.cs",
+              "Title": "MediaNocheUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 8\\MandalorianSol\\Domain\\UseCases\\MediaNocheUseCase.cs",
+              "RelativeDocumentMoniker": "Domain\\UseCases\\MediaNocheUseCase.cs",
+              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 8\\MandalorianSol\\Domain\\UseCases\\MediaNocheUseCase.cs",
+              "RelativeToolTip": "Domain\\UseCases\\MediaNocheUseCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T12:27:20.619Z",
+              "WhenOpened": "2025-11-10T13:23:48.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 8\\MandalorianSol\\Data\\Class1.cs",
-              "RelativeDocumentMoniker": "Data\\Class1.cs",
-              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 8\\MandalorianSol\\Data\\Class1.cs",
-              "RelativeToolTip": "Data\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "MisionesController.cs",
+              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 8\\MandalorianSol\\UI\\Controllers\\MisionesController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\MisionesController.cs",
+              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 8\\MandalorianSol\\UI\\Controllers\\MisionesController.cs",
+              "RelativeToolTip": "UI\\Controllers\\MisionesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T12:27:08.521Z"
+              "WhenOpened": "2025-11-10T13:18:06.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mision.cs",
+              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 8\\MandalorianSol\\Domain\\Entities\\Mision.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Mision.cs",
+              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 8\\MandalorianSol\\Domain\\Entities\\Mision.cs",
+              "RelativeToolTip": "Domain\\Entities\\Mision.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:17:27.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 8\\MandalorianSol\\UI\\Views\\Misiones\\Index.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Misiones\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 8\\MandalorianSol\\UI\\Views\\Misiones\\Index.cshtml",
+              "RelativeToolTip": "UI\\Views\\Misiones\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T13:16:35.493Z",
+              "EditorCaption": ""
             }
           ]
         }

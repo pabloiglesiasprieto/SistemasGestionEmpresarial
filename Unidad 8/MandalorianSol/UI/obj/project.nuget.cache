@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+v43Lso3A5A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 8\\MandalorianSol\\UI\\UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pablo.iglesias\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.10\\microsoft.extensions.dependencyinjection.9.0.10.nupkg.sha512",
+    "C:\\Users\\pablo.iglesias\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.10\\microsoft.extensions.dependencyinjection.abstractions.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
