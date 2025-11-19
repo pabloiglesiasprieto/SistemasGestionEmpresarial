@@ -41,7 +41,7 @@ namespace Domain.Entities.Persona
         /// </summary>
         public int Id
         {
-            get { return _id; }
+            get;set;
         }
 
         /// <summary>
@@ -49,17 +49,22 @@ namespace Domain.Entities.Persona
         /// </summary>
         public string Nombre
         {
-            get { return _nombre; }
-            set { _nombre = value; }
+            get; set;
         }
 
         /// <summary>
         /// Getter y Setter del apellido.
         /// </summary>
-        public string Apellido
+        public string Apellidos
         {
-            get { return _apellido; }
-            set { _apellido = value; }
+            get; set;
         }
+
+        public string Telefono { get; set; }
+        public string Direccion { get; set; }
+
+        public int Edad { get; set; }
+
+        public DateTime FechaNac { get; set; }
     }
 }

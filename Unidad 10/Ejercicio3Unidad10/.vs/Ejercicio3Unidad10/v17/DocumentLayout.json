@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 10\\Ejercicio3Unidad10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7028BE-C3BD-4D14-B9AF-0F141209690B}|Domain\\Domain.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 10\\ejercicio3unidad10\\domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7028BE-C3BD-4D14-B9AF-0F141209690B}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DD3CC1-BBA3-475A-A65E-9C1D64B971AA}|Data\\Data.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 10\\ejercicio3unidad10\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6DD3CC1-BBA3-475A-A65E-9C1D64B971AA}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DD3CC1-BBA3-475A-A65E-9C1D64B971AA}|Data\\Data.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 10\\ejercicio3unidad10\\data\\repositories\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DD3CC1-BBA3-475A-A65E-9C1D64B971AA}|Data\\Data.csproj|solutionrelative:data\\repositories\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7028BE-C3BD-4D14-B9AF-0F141209690B}|Domain\\Domain.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 10\\ejercicio3unidad10\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E7028BE-C3BD-4D14-B9AF-0F141209690B}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7028BE-C3BD-4D14-B9AF-0F141209690B}|Domain\\Domain.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 10\\ejercicio3unidad10\\domain\\usecases\\getallpersonausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7028BE-C3BD-4D14-B9AF-0F141209690B}|Domain\\Domain.csproj|solutionrelative:domain\\usecases\\getallpersonausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DD3CC1-BBA3-475A-A65E-9C1D64B971AA}|Data\\Data.csproj|c:\\users\\pablo.iglesias\\documents\\github\\sistemasgestionempresarial\\unidad 10\\ejercicio3unidad10\\data\\database\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DD3CC1-BBA3-475A-A65E-9C1D64B971AA}|Data\\Data.csproj|solutionrelative:data\\database\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 10\\Ejercicio3Unidad10\\Domain\\Entities\\Persona.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Persona.cs",
+              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 10\\Ejercicio3Unidad10\\Domain\\Entities\\Persona.cs",
+              "RelativeToolTip": "Domain\\Entities\\Persona.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:35:31.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 10\\Ejercicio3Unidad10\\Data\\Repositories\\PersonaRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\PersonaRepository.cs",
+              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 10\\Ejercicio3Unidad10\\Data\\Repositories\\PersonaRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\PersonaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:28:21.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 10\\Ejercicio3Unidad10\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 10\\Ejercicio3Unidad10\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-19T13:27:00.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllPersonaUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 10\\Ejercicio3Unidad10\\Domain\\UseCases\\GetAllPersonaUseCase.cs",
+              "RelativeDocumentMoniker": "Domain\\UseCases\\GetAllPersonaUseCase.cs",
+              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 10\\Ejercicio3Unidad10\\Domain\\UseCases\\GetAllPersonaUseCase.cs",
+              "RelativeToolTip": "Domain\\UseCases\\GetAllPersonaUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:25:50.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 10\\Ejercicio3Unidad10\\Data\\DataBase\\Connection.cs",
+              "RelativeDocumentMoniker": "Data\\DataBase\\Connection.cs",
+              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 10\\Ejercicio3Unidad10\\Data\\DataBase\\Connection.cs",
+              "RelativeToolTip": "Data\\DataBase\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:15:47.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data",
+              "DocumentMoniker": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 10\\Ejercicio3Unidad10\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\pablo.iglesias\\Documents\\GitHub\\SistemasGestionEmpresarial\\Unidad 10\\Ejercicio3Unidad10\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-19T13:12:55.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
